@@ -107,3 +107,4 @@ C:\Users\Miru\Documents\GTDDK-TBNV\Code\GUI_Controll\AppControllLedCountDown\App
 C:\Users\Miru\Documents\GTDDK-TBNV\Code\GUI_Controll\AppControllLedCountDown\AppControllLedCountDown\bin\Debug\Stormlion.ShapeControl.dll
 C:\Users\Miru\Documents\GTDDK-TBNV\Code\GUI_Controll\AppControllLedCountDown\AppControllLedCountDown\bin\Debug\SkiaSharp.xml
 C:\Users\Miru\Documents\GTDDK-TBNV\Code\GUI_Controll\AppControllLedCountDown\AppControllLedCountDown\bin\Debug\SevenSegDisplay.dll
+C:\Users\Miru\Documents\GTDDK-TBNV\Code\GUI_Controll\AppControllLedCountDown\AppControllLedCountDown\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
